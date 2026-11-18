@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Disque de la pièce -->
+    <path
+        android:fillColor="#FFD4A017"
+        android:pathData="M54,54m-30,0a30,30 0,1 1,60 0a30,30 0,1 1,-60 0" />
+    <!-- Anneau intérieur -->
+    <path
+        android:strokeColor="#FFB8860B"
+        android:strokeWidth="3"
+        android:pathData="M54,54m-23,0a23,23 0,1 1,46 0a23,23 0,1 1,-46 0" />
+    <!-- Un "1" stylisé -->
+    <path
+        android:fillColor="#FF8A6508"
+        android:pathData="M50,40 L58,36 L58,72 L52,72 L52,45 L50,46 Z" />
+</vector>
